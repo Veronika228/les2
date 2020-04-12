@@ -17,3 +17,4 @@ else:
         var_list[i + 1] = itm
         i += 2
 print(var_list)
+
