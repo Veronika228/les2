@@ -22,3 +22,4 @@ if number <= 12 and number >= 1:
     print("Месяц из кортежа {month_dict[i]}")
 else:
     print("Вы сделали ошибку.")
+
